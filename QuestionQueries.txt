@@ -1,0 +1,47 @@
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (1,'Scientific Method','Presented a question that could be answered through experimentation');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (2,'Scientific Method','Variables and controls are defined, appropriate, and complete');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (3,'Scientific Method','Clear procedural plan for testing the hypothesis, includes use of control variables');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (4,'Scientific Method','The conclusions are based on multiple trials (at least 3) and adequate subjects were used');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (5,'Scientific Method','Clear and thorough process for data observation and collection');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (6,'Scientific Method','Sufficient data was collected to support interpretation and conclusions');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (7,'Scientific Method','The finalist has an idea of what future research is warranted');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (8,'Scientific Knowledge','A minimum of three age-appropriate sources for background research');
+
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (9,'Scientific Knowledge','Clearly identified and explained key scientific concepts releating to the experiment');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (10,'Scientific Knowledge','Used scientific principles and/or mathematical formulas correctly in the experiment');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (11,'Scientific Knowledge','Student suggest changes to the experimental procedure and/or possibilities for further study, while evaluating the success and effectiveness of the project');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (12,'Presentation','Offers clarity of graphics and legends');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (13,'Presentation','The important phases of the project are presented in an orderly manner');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (14,'Presentation','Pictures and diagrams effectively convey information about the science fair project');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (15,'Presentation','Understand the basic science relevance of the project');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (16,'Presentation','Offers clear, concise, and thoughtful responses to questions');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (17,'Presentation','Includes a lab notebook (High school requires a research paper)');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (18,'Creativity','Student presents the relevance of the project');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (19,'Creativity','Investigated an original question, used an original approach, or technique');
+
+INSERT INTO Questions(q_number,q_type,q_text) VALUES (20,'Creativity','Shows enthusiasm and interest in the project');
+
+
+
+
+
+
